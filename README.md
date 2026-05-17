@@ -1,7 +1,3 @@
-Podes colocar um README simples mas profissional para apresentar os teus projetos.
-No GitHub o README é a primeira coisa que recrutadores e pessoas vão ver.
-
-Aqui vai um modelo bom para ti:
 
 # 🚀 Meus Projetos de Programação e Eletrônica
 
