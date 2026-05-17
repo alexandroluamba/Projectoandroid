@@ -60,40 +60,7 @@ Criar soluções tecnológicas úteis, aprender continuamente e desenvolver proj
 
 * GitHub: [https://github.com/alexandroluamba](https://github.com/alexandroluamba)
 * LinkedIn: [https://www.linkedin.com/in/alexandro-luamba]
-(https://www.linkedin.com/in/alexandro-luamba)
 
 ---
 
 ⭐ Obrigado por visitar meu repositório!
-
----
-
-# ✅ Como colocar isso no GitHub
-
-Dentro da pasta `~/Projectos`:
-
-```bash
-nano README.md
-```
-
-cola o texto → depois:
-
-### salvar:
-
-```text
-CTRL + O
-ENTER
-```
-
-### sair:
-
-```text
-CTRL + X
-```
-
-Depois:
-
-```bash
-git add README.md
-git commit -m "Adicionado README"
-git push
