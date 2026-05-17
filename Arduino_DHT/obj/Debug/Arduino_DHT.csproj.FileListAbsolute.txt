@@ -1,0 +1,13 @@
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\bin\Debug\Arduino_DHT.exe.config
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\bin\Debug\Arduino_DHT.exe
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\bin\Debug\Arduino_DHT.pdb
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.csproj.AssemblyReference.cache
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.Form1.resources
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.Properties.Resources.resources
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.csproj.GenerateResource.cache
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.csproj.CoreCompileInputs.cache
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.exe
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.pdb
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.abertura.resources
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.Login.resources
+C:\Users\ZEANDRO\Documents\alex\Arduino_DHT\obj\Debug\Arduino_DHT.Smart.resources
