@@ -59,7 +59,8 @@ Criar soluções tecnológicas úteis, aprender continuamente e desenvolver proj
 # 📫 Contato
 
 * GitHub: [https://github.com/alexandroluamba](https://github.com/alexandroluamba)
-* LinkedIn: Adicionarei em breve
+* LinkedIn: [https://www.linkedin.com/in/alexandro-luamba]
+(https://www.linkedin.com/in/alexandro-luamba)
 
 ---
 
