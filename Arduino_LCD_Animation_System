@@ -1,0 +1,44 @@
+#include <LiquidCrystal.h>
+
+LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
+
+void setup() {
+  lcd.begin(16, 2);
+  lcd.clear();
+}
+
+void loop() {
+
+  lcd.clear();
+
+  lcd.setCursor(3, 0);
+  lcd.print("Alexandro");
+
+  lcd.setCursor(4, 1);
+  lcd.print("Arduino");
+
+  delay(500);
+
+  // Move para direita
+  for(int pos = 0; pos < 6; pos++) {
+    lcd.scrollDisplayRight();
+    delay(150);
+  }
+
+  // Volta completamente
+  for(int pos = 0; pos < 6; pos++) {
+    lcd.scrollDisplayLeft();
+    delay(150);
+  }
+
+  delay(1000);
+
+  // Piscar display
+  for(int i = 0; i < 3; i++) {
+    lcd.noDisplay();
+    delay(300);
+
+    lcd.display();
+    delay(300);
+  }
+}
