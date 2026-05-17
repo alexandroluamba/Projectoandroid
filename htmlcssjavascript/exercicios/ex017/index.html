@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="html.icon.png" type="image/x-icon">
+    <title>Mideas em HTML</title>
+</head>
+<body>
+    <h1>Imagem dínamica</h1>
+    <p>Tente abrir esse site em varios diferentes ou simplesmente aument e díminui  o tamanho do seu navegador.</p>
+
+    <picture>
+       <source media="(max-width:750px )" srcset="imagens1/paisagem-p.png" type="image/png">
+        <source media="(max-width:1050px )" srcset="imagens1/paisagem-m.png" type="image/png">
+        <img src="imagens1/paisagem-g.png" alt="foto flexivel">
+
+
+    <h1>Reproduzindo</h1>
+    <p>Vamos reprodozir audios em html5</p>
+<audio preload="metadata" controls autoplay loop  >
+    <source src="midia/happy-mistake (2).mp3" type="audio/mpeg">
+    <source src="midia/happy-mistake (2).ogg" type="audio/ogg">
+    <source src="midia/happy-mistake (2).wav" type="audio/wav">
+    <p>Infelizmente. Este arquivo nao consegue reproduzir  neste momento <a href="midia/happy-mistake (2).mp3" download="happy-mistake (2).mp3">lica baixar</a></p>
+</audio>
+\
+</body>
+</html>

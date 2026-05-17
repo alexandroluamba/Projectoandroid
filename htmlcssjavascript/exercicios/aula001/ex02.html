@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro programa</title>
+    <style>
+        body{
+            background-color: rgb(72, 72, 154);
+            font: Arial 20pt normal;
+            text-align: center;
+            color: white;
+        }
+        h1{
+            color: yellow;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Já me livrei da maldição!!</p>
+    <script>
+        window.alert('Meu primeiro codigo em javascript');
+        window.confirm('Esta gostando de javascript?');
+        var nome =  window.prompt('Qual é o seu nome?');// vai perguntar 
+        window.alert(`É um prazer te conhecer, ${  nome }`);
+        var n1 = Number(window.prompt('Digite um número'))
+        var n2 =Number(window.prompt('digite outro valor?'))
+        var soma = n1 + n2
+        window.alert('O total é'+ soma)// concatenaçao
+        // Number()o js se decide se é inteiro ou float
+        // Number.parseInt() o js torna o valor em inteiro
+        // Number.parseFloat o js torna o valor em decimal
+    </script>
+</body>
+</html>

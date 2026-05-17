@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicios</title>
+</head>
+<body>
+
+    SEU País: <input type="" id="txtpais">
+    <input type="button" value="verificar" onclick="texto()">
+    <div id="pais"></div>
+    <script>
+        function texto(){
+            var txtpais = window.document.getElementById('txtpais')
+            var pais = window.document.querySelector('div#pais')
+            
+            pais.innerHTML = `<p> Você é de <strong>${txtpais}</strong></p>`
+           
+        }
+    </script>
+</body>
+</html>

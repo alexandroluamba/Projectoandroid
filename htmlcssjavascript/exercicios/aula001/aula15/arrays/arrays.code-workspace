@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../exe10pasta/beh 10"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "beh 10"
+	}
+}
